@@ -1,0 +1,2 @@
+ParseInt:
+is use to convert string to integer
